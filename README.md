@@ -19,7 +19,6 @@ Worked on:
 **May 2023 – May 2025**  
 Contributed to projects, led workshops and worked on community building.
 
----
 
 ## ⚙️ Tech Stack
 
@@ -56,7 +55,6 @@ Contributed to projects, led workshops and worked on community building.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![LangChain.js](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 
----
 
 ## 🌐 Find Me Online
 
@@ -65,6 +63,5 @@ Contributed to projects, led workshops and worked on community building.
 - 💼 [LinkedIn](https://www.linkedin.com/in/bedanta/)
 - 📫 bedanta.074@gmail.com
 
----
 
 > 🎵 _Last Played:_ **"Line Without a Hook"** – Montgomery Ricky
