@@ -1,10 +1,10 @@
 # Hey, I'm Bedanta 👋
 
-I'm a 22 y/o full-stack developer and B.Tech student at **NIT Silchar**, building fast, minimal, and scalable web apps. Taught by the web, shaped by late-night docs and Stack Overflow threads.
+I'm a 22 y/o full-stack developer and B.Tech student at **NIT Silchar**, building fast, minimal and scalable web apps. Taught by the web, shaped by late-night docs and Stack Overflow threads.
 
-I work mostly with **TypeScript**, love the **T3 stack**, and always try to sneak in **GraphQL** when I can. Lately into **GenAI** experiments and system design — because nothing beats watching complex pieces click into place.
+I work mostly with **TypeScript**, love the **T3 stack** and always try to sneak in **GraphQL** when I can. Lately into **GenAI** experiments and system design — because nothing beats watching complex pieces click into place.
 
-> Side quests: 🎧 Louis Tomlinson, 🎮 VALORANT, 🏓 table tennis, and the eternal gym grind.
+> Side quests: 🎧 Louis Tomlinson, 🎮 VALORANT, 🏓 table tennis and the eternal gym grind.
 
 ---
 
@@ -12,7 +12,7 @@ I work mostly with **TypeScript**, love the **T3 stack**, and always try to snea
 
 ### 🛠 ProcUrPal — Full Stack Developer Intern  
 **Dec 2024 – Apr 2025**  
-Built an E-Auction platform using **Next.js**, **TypeScript**, and **Node.js**.  
+Built an E-Auction platform using **Next.js**, **TypeScript**, **Express.js**, **DynamoDB**, **Serverless** and **Node.js**.  
 Worked on:
 - Full-stack development
 - API integration
@@ -20,7 +20,7 @@ Worked on:
 
 ### 🚀 GDSC NIT Silchar — Core Member  
 **May 2023 – May 2025**  
-Contributed to projects, led workshops, and represented the club in hackathons and community events.
+Contributed to projects, led workshops and worked on community building.
 
 ---
 
@@ -58,7 +58,6 @@ Contributed to projects, led workshops, and represented the club in hackathons a
 
 ## 🌐 Find Me Online
 
-- 📌 [GitHub](https://github.com/r4inr3aper)
 - 🧮 [LeetCode](https://leetcode.com/xbedanta/)
 - 🐦 [Twitter / X](https://x.com/bedantaxdev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bedanta/)
