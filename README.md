@@ -4,6 +4,7 @@ I'm a 22 y/o full-stack developer and B.Tech student at **NIT Silchar**, buildin
 
 I work mostly with **TypeScript**, love the **T3 stack** and always try to sneak in **GraphQL** when I can. Lately into **GenAI** experiments and system design — because nothing beats watching complex pieces click into place.
 
+
 ## 💼 Experience
 
 ### 🛠 ProcUrPal — Full Stack Developer Intern  
