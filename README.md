@@ -60,7 +60,7 @@ Contributed to projects, led workshops and worked on community building.
 
 - 🧮 [LeetCode](https://leetcode.com/xbedanta/)
 - 🐦 [Twitter / X](https://x.com/bedantaxdev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/bedanta/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bedanta-kataki-0b5205257/)
 - 📫 bedanta.074@gmail.com
 
 
