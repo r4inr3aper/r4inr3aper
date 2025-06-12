@@ -9,7 +9,7 @@ I work mostly with **TypeScript**, love the **T3 stack** and always try to sneak
 
 ### 🛠 ProcUrPal — Full Stack Developer Intern  
 **Dec 2024 – Apr 2025**  
-Built an E-Auction platform using **Next.js**, **TypeScript**, **Express.js**, **DynamoDB**, **Serverless** and **Node.js**.  
+Built an E-Auction SASS Platform using **Next.js**, **TypeScript**, **Express.js**, **DynamoDB**, **Serverless** and **Node.js**.  
 Worked on:
 - Full-stack development
 - API integration
