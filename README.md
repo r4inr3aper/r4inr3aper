@@ -8,8 +8,8 @@ I work mostly with **TypeScript**, love the **T3 stack** and always try to sneak
 
 ### 📌 Currently
 
-- Building a CMS for [inframeschool.com](https://www.inframeschool.com/) using Next.js & TypeScript  
-- Exploring GenAI, system design and backend DX
+- Building a CMS for [inframeschool.com](https://www.inframeschool.com/) using Next.js & TypeScript.
+- Exploring GenAI, System Design and Backend DX.
 
 ---
 
@@ -17,24 +17,24 @@ I work mostly with **TypeScript**, love the **T3 stack** and always try to sneak
 
 **ProcUrPal** – Full Stack Developer Intern  
 `Dec 2024 – Apr 2025`  
-Built a complete e-auction SaaS platform with **Next.js**, **Express.js**, **DynamoDB**, and **AWS**
+Built an E-Auction SaaS platform with **Next.js**, **Express.js**, **DynamoDB** and **AWS**.
 
 **GDSC NIT Silchar** – Core Team Member  
 `May 2023 – May 2025`  
-Led workshops, mentored juniors, and contributed to full-stack projects & content as part of the core team
+Led workshops, mentored juniors and contributed to full-stack projects & content as part of the core team.
 
 ---
 
 ### 🛠 Tech Stack
 
-`TypeScript` · `React` · `Next.js` · `Node.js` · `tRPC` · `GraphQL` · `PostgreSQL` · `MongoDB` · `DynamoDB` · `Redis` · `Docker` · `AWS` · `Tailwind CSS`
+`TypeScript` · `React` · `NextJS` · `NodeJS` · `GraphQL` · `PostgreSQL` · `MongoDB` · `DynamoDB` · `Redis` · `Docker` · `AWS` · `Tailwind CSS`
 
 ---
 
 ### 🚀 Featured Projects
 
 - [**Flick**](https://github.com/r4inr3aper/flick) — Food ordering platform with real-time admin dashboard  
-- [**Incandescence 2025**](https://github.com/r4inr3aper/zest) — Event site with Supabase, Clerk, and React  
+- [**Incandescence 2025**](https://incand.in/) — Event site with Supabase, Clerk, and React  
 - [**Portfolio**](https://xbedanta.vercel.app/) — Animated personal site built with GSAP & Next.js
 
 → [View all GitHub Repos »](https://github.com/r4inr3aper?tab=repositories)
@@ -43,4 +43,4 @@ Led workshops, mentored juniors, and contributed to full-stack projects & conten
 
 ### 🤝 Let's Connect
 
-[Portfolio](https://xbedanta.vercel.app/) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/bedanta-kataki-0b5205257/) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/xbedanta/) &nbsp;|&nbsp; [Twitter](https://x.com/bedantaxdev) &nbsp;|&nbsp; [Resume](https://drive.google.com/file/d/1VOPlxQSpbe4EhdgANfZC_ECnezeBI2Ju/view?usp=drivesdk) &nbsp;|&nbsp; bedanta.074@gmail.com
+[Portfolio](https://xbedanta.vercel.app/) · [LinkedIn](https://linkedin.com/in/bedanta-kataki-0b5205257/) · [LeetCode](https://leetcode.com/xbedanta/) · [Twitter](https://x.com/bedantaxdev) · [Resume](https://drive.google.com/file/d/1VOPlxQSpbe4EhdgANfZC_ECnezeBI2Ju/view?usp=drivesdk) · bedanta.074@gmail.com
