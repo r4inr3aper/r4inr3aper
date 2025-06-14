@@ -1,67 +1,76 @@
-# Hey, I'm Bedanta 👋
+# 👋 Hey, I'm Bedanta
 
 I'm a 22 y/o full-stack developer and B.Tech student at **NIT Silchar**, building fast, minimal and scalable web apps. Taught by the web, shaped by late-night docs and Stack Overflow threads.
 
 I work mostly with **TypeScript**, love the **T3 stack** and always try to sneak in **GraphQL** when I can. Lately into **GenAI** experiments and system design — because nothing beats watching complex pieces click into place.
 
+---
 
 ## 💼 Experience
 
-### 🛠 ProcUrPal — Full Stack Developer Intern  
-**Dec 2024 – Apr 2025**  
-Built an E-Auction SASS Platform using **Next.js**, **TypeScript**, **Express.js**, **DynamoDB**, **Serverless** and **Node.js**.  
-Worked on:
-- Full-stack development
-- API integration
-- Scalable Database Architecture
+**🛠 ProcUrPal** — *Full Stack Intern*  
+`Dec 2024 – Apr 2025`  
+Built an E-Auction SaaS platform using Next.js, Express, DynamoDB & AWS Serverless.
 
-### 🚀 GDSC NIT Silchar — Core Member  
-**May 2023 – May 2025**  
-Contributed to projects, led workshops and worked on community building.
+**🚀 GDSC NIT Silchar** — *Core Member*  
+`May 2023 – May 2025`  
+Led dev workshops, contributed to community projects, mentored peers.
 
+---
 
-## ⚙️ Tech Stack
+## 🧰 Tech Stack
 
-### 🧠 Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
-### 🧩 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat-square)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
 
-### 🖥️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white)
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
+![tRPC](https://img.shields.io/badge/-tRPC-2596be?logo=trpc&logoColor=white&style=flat-square)
 
-### 🗄️ Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat-square)
 
-### 🔧 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![LangChain.js](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+**Tools & DevOps:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white&style=flat-square)
 
+---
 
-## 🌐 Find Me Online
+## 📌 Featured Projects
+
+- ⚙️ **Flick** – MERN-based food ordering system with Admin Dashboard  
+- 🧠 **Portfolio** – Animated dev portfolio using GSAP & Next.js  
+- 🧭 **Zest** – Job board built with React + Supabase + Clerk auth  
+
+> _Live demos & docs coming soon_
+
+---
+
+## 🌍 Connect with Me
 
 - 🧮 [LeetCode](https://leetcode.com/xbedanta/)
-- 🐦 [Twitter / X](https://x.com/bedantaxdev)
+- 🐦 [Twitter](https://x.com/bedantaxdev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bedanta-kataki-0b5205257/)
-- 📫 bedanta.074@gmail.com
+- 📬 bedanta.074@gmail.com
 
+---
 
-> 🎵 _Last Played:_ **"Line Without a Hook"** – Montgomery Ricky
+> 🎧 _Last Played:_ **"Line Without a Hook"** – Montgomery Ricky  
