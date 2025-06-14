@@ -1,8 +1,15 @@
 # 👋 Hey, I'm Bedanta
 
-I'm a 22 y/o full-stack developer and B.Tech student at **NIT Silchar**, building fast, minimal and scalable web apps. Taught by the web, shaped by late-night docs and Stack Overflow threads.
+🎓 22 y/o Full-Stack Developer | B.Tech @ **NIT Silchar**  
+⚡ I build fast, minimal & scalable web apps — passionate about the **T3 Stack**, **GraphQL**, and **System Design**.  
+💡 Currently exploring **GenAI** and cloud-native architecture.
 
-I work mostly with **TypeScript**, love the **T3 stack** and always try to sneak in **GraphQL** when I can. Lately into **GenAI** experiments and system design — because nothing beats watching complex pieces click into place.
+---
+
+## 🔭 Currently Working On
+
+- 🛠 Building a custom CMS for [inframeschool.com](https://www.inframeschool.com/) using **Next.js**, **TypeScript**, and **server components**.
+- 🎯 Improving system design & backend architecture skills through side projects and design docs.
 
 ---
 
