@@ -1,83 +1,64 @@
-# 👋 Hey, I'm Bedanta
+# Hey, I'm Bedanta 👋
 
-🎓 22 y/o Full-Stack Developer | B.Tech @ **NIT Silchar**  
-⚡ I build fast, minimal & scalable web apps — passionate about the **T3 Stack**, **GraphQL**, and **System Design**.  
-💡 Currently exploring **GenAI** and cloud-native architecture.
+I'm a full-stack developer & B.Tech student at **NIT Silchar**  
+Building clean, fast, and scalable web apps — mostly with **TypeScript** & the **T3 stack**.  
+Currently exploring **GenAI**, **system design**, and cloud-native backend infra.
 
 ---
 
-## 🔭 Currently Working On
+## 🚧 Currently Building
 
-- 🛠 Building a custom CMS for [inframeschool.com](https://www.inframeschool.com/) using **Next.js**, **TypeScript**, and **server components**.
-- 🎯 Improving system design & backend architecture skills through side projects and design docs.
+- A custom CMS for [inframeschool.com](https://www.inframeschool.com/) with **Next.js**, **TypeScript**, and **server components**.
+- Design notes & backend blueprints for upcoming tools, focused on DX and scale.
 
 ---
 
 ## 💼 Experience
 
-**🛠 ProcUrPal** — *Full Stack Intern*  
+**ProcUrPal** — *Full Stack Developer Intern*  
 `Dec 2024 – Apr 2025`  
-Built an E-Auction SaaS platform using Next.js, Express, DynamoDB & AWS Serverless.
+Built an E-Auction SaaS platform with **Next.js**, **Express**, **DynamoDB**, and AWS Serverless stack.
 
-**🚀 GDSC NIT Silchar** — *Core Member*  
+**GDSC NIT Silchar** — *Core Team Member*  
 `May 2023 – May 2025`  
-Led dev workshops, contributed to community projects, mentored peers.
+Led dev workshops, contributed to open-source collabs, and mentored juniors.
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Tech Stack
 
 **Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+TypeScript · JavaScript · C++ · Python  
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat-square)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
+React · Next.js · Tailwind CSS · GSAP  
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
-![tRPC](https://img.shields.io/badge/-tRPC-2596be?logo=trpc&logoColor=white&style=flat-square)
+Node.js · Express · GraphQL · tRPC  
 
 **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat-square)
+PostgreSQL · MongoDB · DynamoDB · Redis  
 
-**Tools & DevOps:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=langchain&logoColor=white&style=flat-square)
+**Tools & Cloud:**  
+Git · Docker · AWS · LangChain.js · VS Code
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Projects
 
-- ⚙️ **Flick** – MERN-based food ordering system with Admin Dashboard  
-- 🧠 **Portfolio** – Animated dev portfolio using GSAP & Next.js  
-- 🧭 **Zest** – Job board built with React + Supabase + Clerk auth  
+- **Flick** – A full-stack food ordering platform with admin dashboard  
+- **Zest** – Job board app built with React + Supabase + Clerk  
+- **Portfolio** – My animated personal site (Next.js + GSAP)
 
-> _Live demos & docs coming soon_
-
----
-
-## 🌍 Connect with Me
-
-- 🧮 [LeetCode](https://leetcode.com/xbedanta/)
-- 🐦 [Twitter](https://x.com/bedantaxdev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/bedanta-kataki-0b5205257/)
-- 📬 bedanta.074@gmail.com
+[View More →](https://github.com/r4inr3aper?tab=repositories)
 
 ---
 
-> 🎧 _Last Played:_ **"Line Without a Hook"** – Montgomery Ricky  
+## 📬 Reach Me
+
+[LeetCode](https://leetcode.com/xbedanta/) · [LinkedIn](https://linkedin.com/in/bedanta-kataki-0b5205257/) · [Twitter](https://x.com/bedantaxdev) · bedanta.074@gmail.com
+
+---
+
+> 🎧 _Last Played:_ "Line Without a Hook" – Montgomery Ricky  
+> _Typed, tested, shipped — time to vibe._
