@@ -1,64 +1,52 @@
-# Hey, I'm Bedanta 👋
+# 👋 Hey, I'm Bedanta
 
-I'm a full-stack developer & B.Tech student at **NIT Silchar**  
-Building clean, fast, and scalable web apps — mostly with **TypeScript** & the **T3 stack**.  
-Currently exploring **GenAI**, **system design**, and cloud-native backend infra.
+Full-stack developer & B.Tech student at **NIT Silchar**, building fast, clean, and scalable web apps with **TypeScript**, the **T3 stack**, and a sprinkle of **GenAI**.  
+Currently focused on clean backend architecture, DX tooling, and cloud-native apps.
 
 ---
 
-## 🚧 Currently Building
+## 🛠️ Currently Building
 
-- A custom CMS for [inframeschool.com](https://www.inframeschool.com/) with **Next.js**, **TypeScript**, and **server components**.
-- Design notes & backend blueprints for upcoming tools, focused on DX and scale.
+- A custom CMS for [inframeschool.com](https://www.inframeschool.com/) using **Next.js App Router**, **TypeScript**, and **server components**.
+- Internal tools around job tracking, DX, and content pipelines.
 
 ---
 
 ## 💼 Experience
 
-**ProcUrPal** — *Full Stack Developer Intern*  
+**🔹 ProcUrPal – Full Stack Developer Intern**  
 `Dec 2024 – Apr 2025`  
-Built an E-Auction SaaS platform with **Next.js**, **Express**, **DynamoDB**, and AWS Serverless stack.
+Built an e-auction SaaS platform using:
+- Next.js · TypeScript · Express.js · DynamoDB · AWS Serverless  
+Worked on API integration, database modeling, and full-stack architecture.
 
-**GDSC NIT Silchar** — *Core Team Member*  
+**🔹 GDSC NIT Silchar – Core Member**  
 `May 2023 – May 2025`  
-Led dev workshops, contributed to open-source collabs, and mentored juniors.
+Led frontend workshops, mentored peers, and contributed to open-source projects.
 
 ---
 
 ## 🧠 Tech Stack
 
-**Languages:**  
-TypeScript · JavaScript · C++ · Python  
-
-**Frontend:**  
-React · Next.js · Tailwind CSS · GSAP  
-
-**Backend:**  
-Node.js · Express · GraphQL · tRPC  
-
-**Databases:**  
-PostgreSQL · MongoDB · DynamoDB · Redis  
-
-**Tools & Cloud:**  
-Git · Docker · AWS · LangChain.js · VS Code
+**TS/JS · React · Next.js · Tailwind · Node.js · Express · GraphQL · tRPC · PostgreSQL · MongoDB · DynamoDB · Redis · Docker · AWS**
 
 ---
 
 ## 🚀 Projects
 
-- **Flick** – A full-stack food ordering platform with admin dashboard  
-- **Zest** – Job board app built with React + Supabase + Clerk  
-- **Portfolio** – My animated personal site (Next.js + GSAP)
+- **Flick** – Full-stack food ordering platform with real-time admin dashboard  
+- **Zest** – Job board built with React, Supabase, Clerk, and Tailwind  
+- **Portfolio** – Animated portfolio site with GSAP + Next.js
 
-[View More →](https://github.com/r4inr3aper?tab=repositories)
-
----
-
-## 📬 Reach Me
-
-[LeetCode](https://leetcode.com/xbedanta/) · [LinkedIn](https://linkedin.com/in/bedanta-kataki-0b5205257/) · [Twitter](https://x.com/bedantaxdev) · bedanta.074@gmail.com
+[→ Explore My Projects](https://github.com/r4inr3aper?tab=repositories)
 
 ---
 
-> 🎧 _Last Played:_ "Line Without a Hook" – Montgomery Ricky  
-> _Typed, tested, shipped — time to vibe._
+## 🌐 Find Me Online
+
+[LeetCode](https://leetcode.com/xbedanta/) • [LinkedIn](https://linkedin.com/in/bedanta-kataki-0b5205257/) • [Twitter](https://x.com/bedantaxdev)  
+📬 bedanta.074@gmail.com
+
+---
+
+> 🎧 _Last Played:_ “Line Without a Hook” – Montgomery Ricky
