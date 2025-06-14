@@ -17,7 +17,7 @@ I work mostly with **TypeScript**, love the **T3 stack** and always try to sneak
 
 **ProcUrPal** – Full Stack Developer Intern  
 `Dec 2024 – Apr 2025`  
-Built an E-Auction SaaS platform with **Next.js**, **Express.js**, **DynamoDB** and **AWS**.
+Built an E-Auction SaaS platform using **Next.js**, **Express.js**, **DynamoDB** and **AWS**.
 
 **GDSC NIT Silchar** – Core Team Member  
 `May 2023 – May 2025`  
