@@ -1,35 +1,36 @@
-# Bedanta Kataki
+# 👋 Hey, I'm Bedanta
 
 Full-stack developer from NIT Silchar.  
-Building clean, scalable web apps with TypeScript & the T3 stack.  
-Exploring system design, GenAI tools, and backend DX.
+I build fast, minimal, and scalable web apps — mostly with TypeScript and the T3 stack.  
+Passionate about clean architecture, backend DX, and intuitive frontend interactions.  
+Off-screen, you’ll find me playing table tennis 🏓 or tweaking micro-interactions just for fun.
 
----
+···
 
 ### 📌 Currently
 
-- Building a CMS for [inframeschool.com](https://www.inframeschool.com/) using Next.js App Router & TypeScript.  
-- Working on internal tools for developer workflows.
+- Building a CMS for [inframeschool.com](https://www.inframeschool.com/) using Next.js App Router & TypeScript  
+- Currently exploring GenAI, System Design & Backend DX.  
 
----
+···
 
 ### 💼 Experience
 
 **ProcUrPal** – Full Stack Developer Intern  
 `Dec 2024 – Apr 2025`  
-E-auction SaaS platform built with Next.js, Express.js, DynamoDB & AWS.
+E-auction SaaS platform built with Next.js, Express.js, DynamoDB & AWS
 
 **GDSC NIT Silchar** – Core Team Member  
 `May 2023 – May 2025`  
-Led workshops, open-source contributions, and peer mentorship.
+Led workshops, open-source contributions, and peer mentorship
 
----
+···
 
 ### 🛠 Tech Stack
 
 TypeScript · React · Next.js · Node.js · tRPC · GraphQL · PostgreSQL · MongoDB · DynamoDB · Redis · Docker · AWS · Tailwind CSS
 
----
+···
 
 ### 🚀 Featured Projects
 
@@ -39,9 +40,9 @@ TypeScript · React · Next.js · Node.js · tRPC · GraphQL · PostgreSQL · Mo
 
 Explore more → [GitHub Repos](https://github.com/r4inr3aper?tab=repositories)
 
----
+···
 
-### 📫 Reach Me
+### 🤝 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/bedanta-kataki-0b5205257/) · [LeetCode](https://leetcode.com/xbedanta/) · [Twitter](https://x.com/bedantaxdev)  
-📬 bedanta.074@gmail.com
+[Portfolio](https://xbedanta.vercel.app/) · [LinkedIn](https://linkedin.com/in/bedanta-kataki-0b5205257/) · [LeetCode](https://leetcode.com/xbedanta/) · [Twitter](https://x.com/bedantaxdev) · 📬 bedanta.074@gmail.com  
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.com)
