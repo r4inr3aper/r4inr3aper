@@ -1,16 +1,15 @@
 # 👋 Hey, I'm Bedanta
 
-Full-stack developer from NIT Silchar.  
-I build fast, minimal, and scalable web apps — mostly with TypeScript and the T3 stack.  
-Passionate about clean architecture, backend DX, and intuitive frontend interactions.  
-Off-screen, you’ll find me playing table tennis 🏓 or tweaking micro-interactions just for fun.
+I'm a 22 y/o full-stack developer and B.Tech student at **NIT Silchar**, building fast, minimal and scalable web apps. Taught by the web, shaped by late-night docs and Stack Overflow threads.
+
+I work mostly with **TypeScript**, love the **T3 stack** and always try to sneak in **GraphQL** when I can. When I’m not coding, I’m usually playing table tennis. 🏓 
 
 ···
 
 ### 📌 Currently
 
 - Building a CMS for [inframeschool.com](https://www.inframeschool.com/) using Next.js App Router & TypeScript  
-- Currently exploring GenAI, System Design & Backend DX.  
+- Currently exploring GenAI, System Design & Backend DX  
 
 ···
 
@@ -44,5 +43,9 @@ Explore more → [GitHub Repos](https://github.com/r4inr3aper?tab=repositories)
 
 ### 🤝 Let's Connect
 
-[Portfolio](https://xbedanta.vercel.app/) · [LinkedIn](https://linkedin.com/in/bedanta-kataki-0b5205257/) · [LeetCode](https://leetcode.com/xbedanta/) · [Twitter](https://x.com/bedantaxdev) · 📬 bedanta.074@gmail.com  
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.com)
+[Portfolio](https://xbedanta.vercel.app/) &nbsp;|&nbsp;  
+[LinkedIn](https://linkedin.com/in/bedanta-kataki-0b5205257/) &nbsp;|&nbsp;  
+[LeetCode](https://leetcode.com/xbedanta/) &nbsp;|&nbsp;  
+[Twitter](https://x.com/bedantaxdev) &nbsp;|&nbsp;  
+[Resume](https://your-resume-link.com) &nbsp;|&nbsp;  
+📬 bedanta.074@gmail.com
