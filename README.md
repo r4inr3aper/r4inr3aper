@@ -8,8 +8,8 @@ I work mostly with **TypeScript**, love the **T3 stack** and always try to sneak
 
 ### 📌 Currently
 
-- Building a CMS for [inframeschool.com](https://www.inframeschool.com/) using Next.js & TypeScript.
-- Exploring GenAI, System Design and Backend DX.
+- Building a Realtime Chat App in Native for [inframeschool.com](https://www.inframeschool.com/) using React Native and Typescript.
+- Exploring React Native, Go and ML/DL.
 
 ---
 
